@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Hoque Nadia
+  given-names: Mouri
+orcid: https://orcid.org/0000-0000-0000-0000
+title:NadiaHoque/climate-analysis: Release for Zenodo
+version: v1.0.1
+DOI: 10.5072/zenodo.156345
+date-released: 2025-01-23
